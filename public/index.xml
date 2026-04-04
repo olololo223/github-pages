@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Apr 2026 10:55:48 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>//localhost:1313/posts/my-third-post/</link>
+      <pubDate>Sat, 04 Apr 2026 10:55:48 +0900</pubDate>
+      <guid>//localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;III&lt;/p&gt;&#xA;&lt;p&gt;Вечер Анны Павловны был пущен. Веретена с разных сторон равномерно и не умолкая шумели. Кроме ma tante, около которой сидела только одна пожилая дама с исплаканным, худым лицом, несколько чужая в этом блестящем обществе, общество разбилось на три кружка. В одном, более мужском, центром был аббат; в другом, молодом, — красавица княжна Элен, дочь князя Василия, и хорошенькая, румяная, слишком полная по своей молодости, маленькая княгиня Болконская. В третьем — Мортемар и Анна Павловна.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>//localhost:1313/posts/my-second-post/</link>
+      <pubDate>Sat, 04 Apr 2026 10:55:41 +0900</pubDate>
+      <guid>//localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;II&lt;/p&gt;&#xA;&lt;p&gt;Гостиная Анны Павловны начала понемногу наполняться. Приехала высшая знать Петербурга, люди самые разнородные по возрастам и характерам, но одинаковые по обществу, в каком все жили; приехала дочь князя Василия, красавица Элен, заехавшая за отцом, чтобы с ним вместе ехать на праздник посланника. Она была в шифре и бальном платье. Приехала и известная, как la femme la plus séduisante de Pétersbourg 1, молодая, маленькая княгиня Болконская, прошлую зиму вышедшая замуж и теперь не выезжавшая в большой свет по причине своей беременности, но ездившая еще на небольшие вечера. Приехал князь Ипполит, сын князя Василия, с Мортемаром, которого он представил; приехал и аббат Морио и многие другие.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 04 Apr 2026 10:55:29 +0900</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;#Лев Толстой&lt;/p&gt;&#xA;&lt;p&gt;#Война и мир&#xA;Том первый&lt;/p&gt;&#xA;&lt;p&gt;Часть первая&lt;/p&gt;&#xA;&lt;p&gt;I&lt;/p&gt;&#xA;&lt;p&gt;— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j&amp;rsquo;y crois) — je ne vous connais plus, vous n&amp;rsquo;êtes plus mon ami, vous n&amp;rsquo;êtes plus мой верный раб, comme vous dites 1. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur 2, садитесь и рассказывайте.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
